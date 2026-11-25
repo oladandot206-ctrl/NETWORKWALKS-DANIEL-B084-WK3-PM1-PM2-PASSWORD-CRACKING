@@ -1,7 +1,7 @@
 # NETWORKWALKS-DANIEL-B084-WK3-PM1-PM2-PASSWORD-CRACKING
 
 **Cybersecurity & Ethical Hacking Internship — Networkwalks Academy**
-**Student:** Olanipekun Daniel Dayo (Wick)
+**Student:** Olanipekun Daniel Dayo
 **Week 3 — Password Cracking**
 
 ---
@@ -54,13 +54,13 @@ Both modules follow the same core idea: extract a crackable hash from an encrypt
 
 ### Screenshots
 
-![Hash extracted with pdf2john](screenshots/01-pm1-hash-extraction.png)
+![Hash extracted with pdf2john](01-pm1-hash-extraction.png)
 *Extracting the hash from the locked PDF using pdf2john*
 
-![Password cracked with John the Ripper](screenshots/02-pm1-jtr-cracked.png)
+![Password cracked with John the Ripper](02-pm1-jtr-cracked.png)
 *John the Ripper successfully cracking the password: good-luck*
 
-![Unlocked PDF](screenshots/03-pm1-pdf-unlocked.png)
+![Unlocked PDF](03-pm1-pdf-unlocked.png)
 *PDF unlocked using the cracked password, showing the captured flag*
 
 ---
@@ -82,13 +82,13 @@ Both modules follow the same core idea: extract a crackable hash from an encrypt
 
 ### Screenshots
 
-![Hash extracted with Networkwalks Hash Calculator](screenshots/04-pm2-hash-calculator.png)
+![Hash extracted with Networkwalks Hash Calculator](04-pm2-hash-calculator.png)
 *Extracting the hash using the Networkwalks Hash Calculator tool*
 
-![Password cracked with Networkwalks Password Cracker](screenshots/05-pm2-password-cracker.png)
+![Password cracked with Networkwalks Password Cracker](05-pm2-password-cracker.png)
 *Networkwalks Password Cracker successfully cracking the password: password1*
 
-![Unlocked PDF](screenshots/06-pm2-pdf-unlocked.png)
+![Unlocked PDF](06-pm2-pdf-unlocked.png)
 *PDF unlocked using the cracked password, showing the captured flag*
 
 ---
